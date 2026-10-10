@@ -9,7 +9,7 @@ public class I_love_username {
         int f = sc.nextInt();
         int min = f;
         int max = f;
-        int c = 0;
+        int c = 0;  
 
         for (int i = 1; i < n; i++) {
             int score = sc.nextInt();
