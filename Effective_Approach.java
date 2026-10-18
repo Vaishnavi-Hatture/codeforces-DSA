@@ -1,7 +1,6 @@
-public class Effective_Approach {
-    import java.util.Scanner;
+import java.util.Scanner;
 
-public class EffectiveApproach {
+public class Effective_Approach{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -28,5 +27,4 @@ public class EffectiveApproach {
 
         sc.close();
     }
-}
 }
